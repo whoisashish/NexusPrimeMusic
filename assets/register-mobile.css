@@ -1,0 +1,24 @@
+@media only screen and (max-width: 1024px) {
+    #loginContainer {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #inputContainer {
+        width: 100%;
+        margin-bottom: 10px;
+        max-width: 660.109px;
+    }
+
+    #loginTextContainer {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    #loginText h1 {
+        font-size: 45px;
+        text-align: center;
+    }
+}
